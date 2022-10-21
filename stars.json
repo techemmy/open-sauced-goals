@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "BolajiAyodeji/technical-writing-template",
+    "stargazers_count": 359,
+    "open_issues_count": 0,
+    "forks_count": 87
+  },
+  {
     "full_name": "OpesanyaAdebayo/systems-design",
-    "stargazers_count": 742,
+    "stargazers_count": 743,
     "open_issues_count": 0,
     "forks_count": 169
   },
   {
     "full_name": "labs42io/clean-code-typescript",
-    "stargazers_count": 6657,
+    "stargazers_count": 6670,
     "open_issues_count": 6,
-    "forks_count": 825
+    "forks_count": 826
   },
   {
     "full_name": "sw-yx/brain",
@@ -19,21 +25,21 @@
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 37164,
+    "stargazers_count": 37237,
     "open_issues_count": 2,
-    "forks_count": 3273
+    "forks_count": 3284
   },
   {
     "full_name": "louis-e/arnis",
-    "stargazers_count": 192,
+    "stargazers_count": 194,
     "open_issues_count": 3,
     "forks_count": 14
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 147035,
-    "open_issues_count": 261,
-    "forks_count": 37695
+    "stargazers_count": 147224,
+    "open_issues_count": 268,
+    "forks_count": 37790
   },
   {
     "full_name": "Prakashpaarthipan/clean-code-javascript",
@@ -43,33 +49,33 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 168432,
+    "stargazers_count": 168967,
     "open_issues_count": 267,
-    "forks_count": 15850
+    "forks_count": 15912
   },
   {
     "full_name": "avibrazil/RDM",
     "stargazers_count": 3699,
     "open_issues_count": 52,
-    "forks_count": 311
+    "forks_count": 310
   },
   {
     "full_name": "HarshCasper/Rotten-Scripts",
-    "stargazers_count": 1183,
-    "open_issues_count": 95,
-    "forks_count": 457
+    "stargazers_count": 1184,
+    "open_issues_count": 96,
+    "forks_count": 458
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 46141,
-    "open_issues_count": 14,
-    "forks_count": 6621
+    "stargazers_count": 46380,
+    "open_issues_count": 7,
+    "forks_count": 6643
   },
   {
     "full_name": "jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews",
-    "stargazers_count": 2171,
+    "stargazers_count": 2173,
     "open_issues_count": 21,
-    "forks_count": 2187
+    "forks_count": 2188
   },
   {
     "full_name": "teal33t/captcha_bypass",
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "VGraupera/1on1-questions",
-    "stargazers_count": 9061,
+    "stargazers_count": 9069,
     "open_issues_count": 8,
-    "forks_count": 611
+    "forks_count": 612
   },
   {
     "full_name": "coleifer/micawber",
