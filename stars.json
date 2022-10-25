@@ -1,45 +1,51 @@
 [
   {
-    "full_name": "BolajiAyodeji/technical-writing-template",
-    "stargazers_count": 359,
+    "full_name": "Sairyss/backend-best-practices",
+    "stargazers_count": 474,
     "open_issues_count": 0,
-    "forks_count": 87
+    "forks_count": 40
+  },
+  {
+    "full_name": "BolajiAyodeji/technical-writing-template",
+    "stargazers_count": 366,
+    "open_issues_count": 0,
+    "forks_count": 88
   },
   {
     "full_name": "OpesanyaAdebayo/systems-design",
-    "stargazers_count": 743,
+    "stargazers_count": 745,
     "open_issues_count": 0,
     "forks_count": 169
   },
   {
     "full_name": "labs42io/clean-code-typescript",
-    "stargazers_count": 6670,
-    "open_issues_count": 6,
-    "forks_count": 826
+    "stargazers_count": 6685,
+    "open_issues_count": 7,
+    "forks_count": 828
   },
   {
     "full_name": "sw-yx/brain",
-    "stargazers_count": 1225,
+    "stargazers_count": 1255,
     "open_issues_count": 0,
     "forks_count": 56
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 37237,
-    "open_issues_count": 2,
-    "forks_count": 3284
+    "stargazers_count": 37356,
+    "open_issues_count": 3,
+    "forks_count": 3296
   },
   {
     "full_name": "louis-e/arnis",
-    "stargazers_count": 194,
-    "open_issues_count": 3,
-    "forks_count": 14
+    "stargazers_count": 195,
+    "open_issues_count": 4,
+    "forks_count": 13
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 147224,
-    "open_issues_count": 268,
-    "forks_count": 37790
+    "stargazers_count": 147417,
+    "open_issues_count": 276,
+    "forks_count": 37921
   },
   {
     "full_name": "Prakashpaarthipan/clean-code-javascript",
@@ -49,33 +55,33 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 168967,
-    "open_issues_count": 267,
-    "forks_count": 15912
+    "stargazers_count": 169496,
+    "open_issues_count": 266,
+    "forks_count": 15971
   },
   {
     "full_name": "avibrazil/RDM",
-    "stargazers_count": 3699,
+    "stargazers_count": 3709,
     "open_issues_count": 52,
-    "forks_count": 310
+    "forks_count": 309
   },
   {
     "full_name": "HarshCasper/Rotten-Scripts",
-    "stargazers_count": 1184,
-    "open_issues_count": 96,
-    "forks_count": 458
+    "stargazers_count": 1186,
+    "open_issues_count": 97,
+    "forks_count": 461
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 46380,
-    "open_issues_count": 7,
-    "forks_count": 6643
+    "stargazers_count": 46631,
+    "open_issues_count": 8,
+    "forks_count": 6679
   },
   {
     "full_name": "jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews",
-    "stargazers_count": 2173,
+    "stargazers_count": 2176,
     "open_issues_count": 21,
-    "forks_count": 2188
+    "forks_count": 2192
   },
   {
     "full_name": "teal33t/captcha_bypass",
@@ -85,13 +91,13 @@
   },
   {
     "full_name": "VGraupera/1on1-questions",
-    "stargazers_count": 9069,
+    "stargazers_count": 9074,
     "open_issues_count": 8,
-    "forks_count": 612
+    "forks_count": 613
   },
   {
     "full_name": "coleifer/micawber",
-    "stargazers_count": 584,
+    "stargazers_count": 585,
     "open_issues_count": 0,
     "forks_count": 86
   }
