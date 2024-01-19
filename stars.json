@@ -1,15 +1,15 @@
 [
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 40872,
+    "stargazers_count": 40936,
     "open_issues_count": 39,
-    "forks_count": 2031
+    "forks_count": 2033
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 165881,
-    "open_issues_count": 487,
-    "forks_count": 25787
+    "stargazers_count": 165975,
+    "open_issues_count": 479,
+    "forks_count": 25793
   },
   {
     "full_name": "lirantal/awesome-nodejs-security",
@@ -19,57 +19,57 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 51792,
+    "stargazers_count": 51911,
     "open_issues_count": 33,
-    "forks_count": 5207
+    "forks_count": 5228
   },
   {
     "full_name": "Agenta-AI/agenta",
-    "stargazers_count": 628,
-    "open_issues_count": 86,
+    "stargazers_count": 633,
+    "open_issues_count": 77,
     "forks_count": 126
   },
   {
     "full_name": "RecipeUI/RecipeUI",
-    "stargazers_count": 1291,
+    "stargazers_count": 1293,
     "open_issues_count": 21,
     "forks_count": 38
   },
   {
     "full_name": "alfateam/rdb",
-    "stargazers_count": 506,
+    "stargazers_count": 507,
     "open_issues_count": 7,
     "forks_count": 20
   },
   {
     "full_name": "DovAmir/awesome-design-patterns",
-    "stargazers_count": 34542,
+    "stargazers_count": 34621,
     "open_issues_count": 16,
-    "forks_count": 2651
+    "forks_count": 2652
   },
   {
     "full_name": "binhnguyennus/awesome-scalability",
-    "stargazers_count": 50636,
+    "stargazers_count": 50907,
     "open_issues_count": 16,
-    "forks_count": 5401
+    "forks_count": 5417
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 60556,
-    "open_issues_count": 129,
-    "forks_count": 6757
+    "stargazers_count": 60688,
+    "open_issues_count": 131,
+    "forks_count": 6767
   },
   {
     "full_name": "sindresorhus/awesome-nodejs",
-    "stargazers_count": 54407,
-    "open_issues_count": 5,
-    "forks_count": 5913
+    "stargazers_count": 54444,
+    "open_issues_count": 6,
+    "forks_count": 5916
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 101156,
-    "open_issues_count": 1970,
-    "forks_count": 28282
+    "stargazers_count": 101201,
+    "open_issues_count": 1981,
+    "forks_count": 28313
   },
   {
     "full_name": "weagle08/sequelizejs-decorators",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "OWASP/CheatSheetSeries",
-    "stargazers_count": 25553,
+    "stargazers_count": 25580,
     "open_issues_count": 49,
-    "forks_count": 3654
+    "forks_count": 3662
   },
   {
     "full_name": "AltCamp/altcampv1-backend",
@@ -90,22 +90,22 @@
     "forks_count": 17
   },
   {
-    "full_name": "imgly/background-removal-js",
-    "stargazers_count": 4971,
-    "open_issues_count": 33,
-    "forks_count": 322
+    "full_name": "imgly-labs/background-removal-js",
+    "stargazers_count": 4992,
+    "open_issues_count": 32,
+    "forks_count": 323
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 10766,
-    "open_issues_count": 263,
-    "forks_count": 518
+    "stargazers_count": 10785,
+    "open_issues_count": 267,
+    "forks_count": 519
   },
   {
     "full_name": "fern-api/fern",
-    "stargazers_count": 2074,
-    "open_issues_count": 184,
-    "forks_count": 89
+    "stargazers_count": 2082,
+    "open_issues_count": 195,
+    "forks_count": 90
   },
   {
     "full_name": "railwayapp-templates/expressjs-prisma",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "ljlm0402/typescript-express-starter",
-    "stargazers_count": 2445,
+    "stargazers_count": 2447,
     "open_issues_count": 39,
     "forks_count": 383
   },
@@ -133,50 +133,50 @@
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 94679,
-    "open_issues_count": 71,
-    "forks_count": 9825
+    "stargazers_count": 94733,
+    "open_issues_count": 70,
+    "forks_count": 9826
   },
   {
     "full_name": "TomSchimansky/CustomTkinter",
-    "stargazers_count": 9381,
-    "open_issues_count": 327,
-    "forks_count": 966
+    "stargazers_count": 9405,
+    "open_issues_count": 328,
+    "forks_count": 968
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 39711,
-    "open_issues_count": 11,
-    "forks_count": 3323
+    "stargazers_count": 40017,
+    "open_issues_count": 12,
+    "forks_count": 3338
   },
   {
     "full_name": "PacktPublishing/Node.js-Design-Patterns-Third-Edition",
-    "stargazers_count": 1350,
+    "stargazers_count": 1352,
     "open_issues_count": 29,
-    "forks_count": 429
+    "forks_count": 430
   },
   {
     "full_name": "hypnguyen1209/JS-ebook",
-    "stargazers_count": 211,
+    "stargazers_count": 210,
     "open_issues_count": 2,
     "forks_count": 86
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 285450,
-    "open_issues_count": 59,
-    "forks_count": 27020
+    "stargazers_count": 285859,
+    "open_issues_count": 58,
+    "forks_count": 27029
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 12247,
-    "open_issues_count": 13,
-    "forks_count": 21748
+    "stargazers_count": 12267,
+    "open_issues_count": 14,
+    "forks_count": 21758
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 179274,
+    "stargazers_count": 179362,
     "open_issues_count": 350,
-    "forks_count": 29588
+    "forks_count": 29608
   }
 ]
